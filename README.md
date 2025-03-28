@@ -11,8 +11,6 @@ This repository contains a Random Forest Classifier implemented in Python using 
 - `random forest classifier.ipynb`: Jupyter Notebook implementing the Random Forest Classifier.
 - `Social_Network_Ads.csv`: Dataset used for training and evaluation.
 
-4. Follow the notebook's instructions to preprocess data, train the model, and evaluate performance.
-
 ## Features
 - Data preprocessing with feature scaling.
 - Random Forest Classifier implementation for prediction.
